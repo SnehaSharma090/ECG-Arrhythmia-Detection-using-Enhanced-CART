@@ -37,3 +37,9 @@ The project follows a machine-learning workflow in which ECG/patient features ar
 
 **Sneha Sharma**  
 GitHub: [@SnehaSharma090](https://github.com/SnehaSharma090)
+
+## 💙 Enjoyed the project?
+
+If you found this project useful or interesting, feel free to ⭐ **star the repository** and **follow me on GitHub**. Your support genuinely motivates me to keep building, learning, and sharing more projects! 🚀
+
+**Thanks for stopping by!** 🙌
